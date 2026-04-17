@@ -1,3 +1,3 @@
-# Lenna---Digital-domain
-Lenna (Digital Domain) Overview: A high-performance image processing system implemented on an FPGA.   Key Features: Real-time execution of algorithms like grayscale, thresholding, and edge detection using a hardware-accelerated pipelined architecture.   
-Hardware/Tech: FPGA, HDMI output for live before-and-after display, and camera module integration. 
+# real-time-image-processing-
+this is the hardware acceleration of the image processor :)
+if your image is of other dimentions do thange apprpriately in the linebuffer module ,imageprocessing control module and other necessary mdoules ...
